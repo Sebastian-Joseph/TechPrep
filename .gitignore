@@ -1,0 +1,37 @@
+# IDE and Project Metadata
+*.iml
+.gradle/
+.idea/
+.DS_Store
+
+# Local Configuration
+local.properties
+
+# Build Artifacts
+/build/
+.cxx/
+.externalNativeBuild/
+*.apk
+*.ap_
+*.dex
+
+# IDE-Specific Files
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
+
+# Secrets
+*.keystore
+*.jks
+/app/secrets.properties
+
+# Captures
+/captures/
