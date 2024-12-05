@@ -1,3 +1,26 @@
+<<<<<<< HEAD
 <resources>
     <string name="app_name">TechPrep</string>
 </resources>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TechPrep</string>
+    <string name="welcome">Welcome to Tech Prep</string>
+    <string name="creators">Created by Sebastian and Timothy</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_resume">Resume Templates</string>
+    <string name="tab_career">Career Guide</string>
+    <string name="tab_linkedin">LinkedIn Guide</string>
+    <string name="intro">TechPrep is a dedicated app designed to help students and job seekers break into the tech industry, focusing on careers in coding, IT, and
+        software engineering. With expertly crafted resume templates tailored for tech roles, comprehensive career guides outlining essential
+        skills and certifications, and step-by-step LinkedIn optimization strategies, TechPrep equips users with the tools to succeed.
+        Whether you are preparing for your first job or aiming to elevate your tech career, TechPrep simplifies the process, connecting you with the
+        knowledge and resources to stand out today in a competitive job market. Created by Timothy and Sebastian, TechPrep is your partner in career success.</string>
+    <string name="intro2">Your Gateway into a Career in Tech</string>
+    <string name="resume_info">Stand out in the competitive tech industry with our professional resume templates, tailored specifically for careers in coding,
+        IT, and software engineering. You can select any resume template to begin and customize to your liking. Highlight your skills, certifications, and
+        experience with ease while showcasing what makes you unique. Whether you are entering the job market or leveling up your career, this page provides
+        the tools and guidance you need to build a resume that gets noticed by top tech employers. Your dream job starts here</string>
+</resources>
+>>>>>>> master

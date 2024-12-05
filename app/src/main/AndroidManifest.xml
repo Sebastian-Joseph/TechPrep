@@ -24,6 +24,10 @@
         <activity
             android:name=".MainActivity"
             android:exported="true">
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

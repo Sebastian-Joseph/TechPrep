@@ -2,6 +2,7 @@ package com.kean.edu.techprep;
 
 import android.os.Bundle;
 
+<<<<<<< HEAD
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
@@ -22,3 +23,14 @@ public class Careers extends AppCompatActivity {
         });
     }
 }
+=======
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Careers extends AppCompatActivity {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_careers);
+    }
+}
+>>>>>>> master
