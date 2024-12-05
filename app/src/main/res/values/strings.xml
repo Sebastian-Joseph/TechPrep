@@ -17,4 +17,68 @@
         IT, and software engineering. You can select any resume template to begin and customize to your liking. Highlight your skills, certifications, and
         experience with ease while showcasing what makes you unique. Whether you are entering the job market or leveling up your career, this page provides
         the tools and guidance you need to build a resume that gets noticed by top tech employers. Your dream job starts here</string>
+    <string name="linkedin_info">
+       Building your personal brand on LinkedIn is essential for enhancing credibility, expanding your network, and driving professional opportunities. Begin by establishing a strong foundation with your profile.
+        Choose a professional, recent profile picture where your face is clear and approachable, and complement it with a background photo that reflects your industry or values.
+        Craft an engaging headline that goes beyond your job title to capture your role, motivations, and unique qualities. Your LinkedIn summary should tell your professional story, highlighting your journey, achievements, and how your skills create impact—steer clear of buzzwords and focus on authenticity.
+        To build credibility, update your skills section to reflect your current expertise and seek endorsements from colleagues and peers.
+        Endorsements substantiate your skills, while personalized recommendations from those you’ve worked with add depth and trustworthiness to your profile. Active engagement is equally important. Share relevant industry content to showcase your knowledge, add thoughtful comments to establish your perspective, and follow key influencers to stay informed and connect with like-minded professionals.
+        Leverage LinkedIn’s features to further enhance your presence. Turning on Creator Mode gives you access to tools for expanding your reach, while Service Pages allow you to highlight specific services if you’re a consultant or entrepreneur. Additionally, contributing to collaborative articles helps you share insights, build thought leadership, and engage with a wider professional community.
+        By dedicating time to these strategies, you’ll develop a LinkedIn profile that not only reflects your expertise but also serves as a powerful tool for advancing your career and amplifying your professional influence.
+    </string>
+    <string name="career_guide"> Career Guide </string>
+    <string name="software_engineer_title">
+        Software Engineer
+    </string>
+    <string name="data_scientist_title">
+        Data Scientist
+    </string>
+    <string name="software_engineer_pay">
+        Average Pay:
+    </string>
+    <string name="software_engineer_job">
+        Job Responsibilities:
+    </string>
+    <string name="software_engineer_certs">
+        Certifications Needed:
+    </string>
+    <string name="software_engineer_breakIn">
+        How to get into the Career:
+    </string>
+    <string name="swe_job_responsibilities">
+        A Software Engineer, or Software Development Engineer, is responsible for developing software programs or systems that align with user needs.
+        Their duties include meeting with clients or business professionals to strategize ideas for beneficial software, coordinating with other IT professionals to design software and running tests to catch coding errors.
+    </string>
+    <string name="swe_certs">
+        Certifications are not required for this career but certifications such as AWS Certified Developer or
+        Oracle Certified Professional (Java) can enhance your resume and experience
+    </string>
+    <string name="swe_howto">
+        Obtain a degree in Computer Science or related fields (This is optional but extremely benefical). Learn programming languages and build projects to showcase your skills.
+        Gain experince through internships, open-source contributions or freelance work. Network via GitHub or LinkedIn
+    </string>
+    <string name="software_engineer_pay_amount">
+        $85,000 - $130,000/year
+    </string>
+    <string name="ds_job">
+        A data scientist knows how to extract meaning from and interpret data.
+        This unique skill set requires the aid of statistical methods and machinery,
+        but largely relies on analytical brain power. Data scientist jobs exist in a variety of industries.
+        Because raw data can rarely be used reliably, businesses look to these technical experts to collect, clean, and validate their data.
+        This meticulous process requires persistence and software engineering skills.
+        A data scientist’s expertise is integral to understanding data, finding patterns,
+        and using their knowledge to help build and improve a company’s products or services.
+    </string>
+    <string name="ds_pay">
+        $95,000 - 150,000/year
+    </string>
+    <string name="ds_certs">
+        Google Data Analytics Professional Certificate. IBM Data Science Professional Certificate. AWS Certified Machine Learning – Specialty
+    </string>
+    <string name="ds_howto">
+        Obtain a degree in Data Science, Statistics, or Computer Science.
+        Develop expertise in programming, statistics, and data visualization.
+        Gain practical experience through projects or Kaggle competitions.
+        Build a portfolio showcasing your data analysis and modeling skills.
+    </string>
 </resources>
