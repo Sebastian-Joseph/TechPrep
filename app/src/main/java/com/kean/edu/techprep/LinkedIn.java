@@ -1,7 +1,11 @@
 package com.kean.edu.techprep;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.ScrollView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,6 +16,9 @@ import androidx.core.view.WindowInsetsCompat;
 import com.google.android.material.tabs.TabLayout;
 
 public class LinkedIn extends AppCompatActivity {
+    ImageView imageLink1;
+    ImageView imageLink2;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -56,5 +63,25 @@ public class LinkedIn extends AppCompatActivity {
             @Override
             public void onTabReselected(TabLayout.Tab tab) {}
         });
+
+        imageLink1 = findViewById(R.id.linkedin_1);
+        imageLink2 = findViewById(R.id.linkedin_2);
+
+        imageLink1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/leeodden/"));
+                startActivity(intent);
+            }
+        });
+
+        imageLink2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/pamdidner/"));
+                startActivity(intent);
+            }
+        });
+
     }
 }

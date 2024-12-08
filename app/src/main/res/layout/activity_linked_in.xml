@@ -67,6 +67,7 @@
         app:srcCompat="@drawable/linkedin1" />
 
     <ScrollView
+        android:id="@+id/scrollView1"
         android:layout_width="373dp"
         android:layout_height="250dp"
         android:layout_marginTop="1dp"
